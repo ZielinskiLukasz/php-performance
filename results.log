@@ -1,15 +1,15 @@
-Foreach: 0.060795068740845 ms
-Array_map: 0.54923605918884 ms
+Foreach: 61 ms
+Array_map: 576 ms
 
-Foreach: 0.062654972076416 ms
-Array_map: 0.55407881736755 ms
+Foreach: 59 ms
+Array_map: 558 ms
 
-Foreach: 0.061007976531982 ms
-Array_map: 0.54802918434143 ms
+Foreach: 61 ms
+Array_map: 556 ms
 
-Foreach: 0.062381029129028 ms
-Array_map: 0.5501229763031 ms
+Foreach: 61 ms
+Array_map: 556 ms
 
-Foreach: 0.059130907058716 ms
-Array_map: 0.55850505828857 ms
+Foreach: 62 ms
+Array_map: 550 ms
 

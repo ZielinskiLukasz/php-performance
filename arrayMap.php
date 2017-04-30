@@ -8,7 +8,7 @@ foreach ($numbers as $number) {
   $result[] = $number * $number;
 }
 $t1 = microtime(true);
-echo 'Foreach: ' . (microtime(true)-$timeStart) . " ms\n";
+echo 'Foreach: ' . round((microtime(true)-$timeStart)*1000) . " ms\n";
 
 $timeStart = microtime(true);
 array_map(function($number) {
@@ -16,4 +16,5 @@ array_map(function($number) {
   }, $numbers);
 
 $t1 = microtime(true);
-echo 'Array_map: ' . (microtime(true)-$timeStart) . " ms\n";
+echo 'Array_map: ' . round((microtime(true)-$timeStart)*1000) . " ms\n";
+echo "\n";
