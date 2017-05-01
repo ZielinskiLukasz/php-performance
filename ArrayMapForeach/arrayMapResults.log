@@ -1,0 +1,15 @@
+Foreach: 61 ms
+Array_map: 576 ms
+
+Foreach: 59 ms
+Array_map: 558 ms
+
+Foreach: 61 ms
+Array_map: 556 ms
+
+Foreach: 61 ms
+Array_map: 556 ms
+
+Foreach: 62 ms
+Array_map: 550 ms
+
