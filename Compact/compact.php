@@ -13,7 +13,7 @@ for($i=0; $i<1000000; $i++) {
 $endTime = microtime(true);  
 $elapsed = round(($endTime-$startTime)*1000);
 
-echo "Time with compact: $elapsed sec.\n";
+echo "Time with compact: $elapsed ms.\n";
 
 $startTime = microtime(true); 
 
