@@ -1,0 +1,15 @@
+Time with strlen: 10 ms.
+Time with mb_strlen: 99 ms.
+
+Time with strlen: 10 ms.
+Time with mb_strlen: 102 ms.
+
+Time with strlen: 10 ms.
+Time with mb_strlen: 102 ms.
+
+Time with strlen: 12 ms.
+Time with mb_strlen: 102 ms.
+
+Time with strlen: 10 ms.
+Time with mb_strlen: 103 ms.
+
