@@ -1,0 +1,9 @@
+Time with strtolower: 49 ms.
+Time with mb_strtolower: 1320 ms.
+
+Time with strtolower: 48 ms.
+Time with mb_strtolower: 1310 ms.
+
+Time with strtolower: 47 ms.
+Time with mb_strtolower: 1292 ms.
+
