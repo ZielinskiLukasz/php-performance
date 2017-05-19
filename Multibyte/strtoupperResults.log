@@ -1,0 +1,9 @@
+Time with strtoupper: 49 ms.
+Time with mb_strtoupper: 2319 ms.
+
+Time with strtoupper: 50 ms.
+Time with mb_strtoupper: 2326 ms.
+
+Time with strtoupper: 49 ms.
+Time with mb_strtoupper: 2314 ms.
+
