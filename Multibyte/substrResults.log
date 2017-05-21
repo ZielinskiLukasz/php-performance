@@ -1,0 +1,9 @@
+Time with substr: 40 ms.
+Time with mb_substr: 58 ms.
+
+Time with substr: 40 ms.
+Time with mb_substr: 59 ms.
+
+Time with substr: 40 ms.
+Time with mb_substr: 58 ms.
+
