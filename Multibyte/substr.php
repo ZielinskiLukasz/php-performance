@@ -21,4 +21,3 @@ $endTime = microtime(true);
 $elapsed = round(($endTime-$startTime)*1000);
 
 echo "Time with mb_substr: $elapsed ms.\n";
-
