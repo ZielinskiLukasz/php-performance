@@ -1,0 +1,9 @@
+Time with foreach: 88 ms.
+Time with for: 99 ms.
+
+Time with foreach: 90 ms.
+Time with for: 106 ms.
+
+Time with foreach: 96 ms.
+Time with for: 107 ms.
+
