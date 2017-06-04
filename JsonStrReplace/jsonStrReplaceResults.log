@@ -1,0 +1,9 @@
+Time with str_replace_json: 429 ms.
+Time with str_replace_deep: 990 ms.
+
+Time with str_replace_json: 430 ms.
+Time with str_replace_deep: 996 ms.
+
+Time with str_replace_json: 428 ms.
+Time with str_replace_deep: 985 ms.
+
