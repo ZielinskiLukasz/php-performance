@@ -23,3 +23,14 @@ $endTime = microtime(true);
 $elapsed = round(($endTime-$startTime)*1000);
 
 echo "Time with preg_replace: $elapsed ms.\n";
+
+$startTime = microtime(true); 
+
+for($i=0; $i<100000; $i++) {
+	preg_replace("/$search/S", $replace, $string);
+}
+
+$endTime = microtime(true);  
+$elapsed = round(($endTime-$startTime)*1000);
+
+echo "Time with preg_replace/S: $elapsed ms.\n";
