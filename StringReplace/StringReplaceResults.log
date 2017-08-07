@@ -1,0 +1,12 @@
+Time with str_replace: 48 ms.
+Time with preg_replace: 81 ms.
+Time with preg_replace/S: 79 ms.
+
+Time with str_replace: 48 ms.
+Time with preg_replace: 82 ms.
+Time with preg_replace/S: 81 ms.
+
+Time with str_replace: 47 ms.
+Time with preg_replace: 86 ms.
+Time with preg_replace/S: 80 ms.
+
